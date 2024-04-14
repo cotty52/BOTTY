@@ -893,7 +893,7 @@
     <ParamWithValue>
       <name>d100</name>
       <typeCode>mm</typeCode>
-      <value>2 mm</value>
+      <value>3 mm</value>
       <comment />
       <isKey>false</isKey>
       <tolerance>Default;Nominal;Document Precision</tolerance>
